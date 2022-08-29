@@ -26,11 +26,11 @@ body {
 
 .credits > p {
   padding: 5px;
-  border: 1px solid #fff;
-  background-color: #05a8ff;
+  border: 5px solid #fe0016;
+  background-color: #fff;
   border-radius: 20px;
   font-size: 20px;
-  color: #000000;
+  color: #fe0016;
   font-weight: bolder;
 }
 .credits > p > a {
