@@ -36,7 +36,7 @@ body {
 .credits > p > a {
   text-decoration: none;
   font-weight: bolder;
-  color: rgb(0, 81, 255);
+  color: #fe0016;
 }
 
 .credits > p > a:hover {
